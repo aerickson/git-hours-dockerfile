@@ -1,0 +1,9 @@
+# git-hours-dockerfile
+
+Dockerfile for the git-hours project (https://github.com/kimmobrunfeldt/git-hours)
+
+# notes
+
+published at https://hub.docker.com/r/ajerickson/git-hours/
+
+based on https://hub.docker.com/r/khor/git-hours/
