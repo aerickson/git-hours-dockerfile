@@ -4,8 +4,10 @@ Dockerfile for the git-hours project (https://github.com/kimmobrunfeldt/git-hour
 
 # building
 
-`docker build -t ajerickson/git-hours .`
-`docker push ajerickson/git-hours`
+```
+docker build -t ajerickson/git-hours .
+docker push ajerickson/git-hours
+```
 
 # notes
 
